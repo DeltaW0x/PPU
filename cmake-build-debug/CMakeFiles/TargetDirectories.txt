@@ -1,0 +1,11 @@
+/Users/delta/Desktop/PPU/cmake-build-debug/CMakeFiles/PPU.dir
+/Users/delta/Desktop/PPU/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/delta/Desktop/PPU/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/delta/Desktop/PPU/cmake-build-debug/_deps/sdl-build/CMakeFiles/sdl_headers_copy.dir
+/Users/delta/Desktop/PPU/cmake-build-debug/_deps/sdl-build/CMakeFiles/SDL2main.dir
+/Users/delta/Desktop/PPU/cmake-build-debug/_deps/sdl-build/CMakeFiles/SDL2.dir
+/Users/delta/Desktop/PPU/cmake-build-debug/_deps/sdl-build/CMakeFiles/SDL2-static.dir
+/Users/delta/Desktop/PPU/cmake-build-debug/_deps/sdl-build/CMakeFiles/SDL2_test.dir
+/Users/delta/Desktop/PPU/cmake-build-debug/_deps/sdl-build/CMakeFiles/uninstall.dir
+/Users/delta/Desktop/PPU/cmake-build-debug/_deps/sdl-build/CMakeFiles/edit_cache.dir
+/Users/delta/Desktop/PPU/cmake-build-debug/_deps/sdl-build/CMakeFiles/rebuild_cache.dir

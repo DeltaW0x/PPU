@@ -1,0 +1,14 @@
+# Target labels
+ sdl-populate
+# Source files and their labels
+/Users/delta/Desktop/PPU/cmake-build-debug/_deps/sdl-subbuild/CMakeFiles/sdl-populate
+/Users/delta/Desktop/PPU/cmake-build-debug/_deps/sdl-subbuild/CMakeFiles/sdl-populate.rule
+/Users/delta/Desktop/PPU/cmake-build-debug/_deps/sdl-subbuild/CMakeFiles/sdl-populate-complete.rule
+/Users/delta/Desktop/PPU/cmake-build-debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-build.rule
+/Users/delta/Desktop/PPU/cmake-build-debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-configure.rule
+/Users/delta/Desktop/PPU/cmake-build-debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-download.rule
+/Users/delta/Desktop/PPU/cmake-build-debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-install.rule
+/Users/delta/Desktop/PPU/cmake-build-debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-mkdir.rule
+/Users/delta/Desktop/PPU/cmake-build-debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-patch.rule
+/Users/delta/Desktop/PPU/cmake-build-debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-test.rule
+/Users/delta/Desktop/PPU/cmake-build-debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-update.rule
