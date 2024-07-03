@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-subbuild\CMakeFiles\a3c92fe7bc24aa57feed81310a1ca3a2\sdl-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-subbuild\CMakeFiles\a3c92fe7bc24aa57feed81310a1ca3a2\sdl-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-subbuild\CMakeFiles\a3c92fe7bc24aa57feed81310a1ca3a2\sdl-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-subbuild\CMakeFiles\a3c92fe7bc24aa57feed81310a1ca3a2\sdl-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-subbuild\CMakeFiles\a3c92fe7bc24aa57feed81310a1ca3a2\sdl-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-subbuild\CMakeFiles\a3c92fe7bc24aa57feed81310a1ca3a2\sdl-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-subbuild\CMakeFiles\a3c92fe7bc24aa57feed81310a1ca3a2\sdl-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-subbuild\CMakeFiles\a3c92fe7bc24aa57feed81310a1ca3a2\sdl-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-subbuild\CMakeFiles\d06e1f0f221bb49ba9c4bb289b5e329c\sdl-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-subbuild\CMakeFiles\b0616506ac8ce1391b7ee448aef9029b\sdl-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-subbuild\CMakeFiles\sdl-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{ED5ED239-7D67-3BD5-BCCB-C7518DF05531}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,28 @@
+# CMake generation dependency list for this directory.
+C:/Users/lucac/source/repos/Paw/PPU/CMakeLists.txt
+C:/Users/lucac/source/repos/Paw/PPU/CPM.cmake
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/CMakeFiles/3.28.1/CMakeCCompiler.cmake
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/CMakeFiles/3.28.1/CMakeRCCompiler.cmake
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/CMakeFiles/3.28.1/CMakeSystem.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/MSVC-C.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/ExternalProject/shared_internal_commands.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/FetchContent.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/FetchContent/CMakeLists.cmake.in
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/FindGit.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/FindPackageMessage.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-MSVC-C.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake

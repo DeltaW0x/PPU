@@ -1,0 +1,39 @@
+# CMake generation dependency list for this directory.
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/SDL_config.h.intermediate
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/CMakeLists.txt
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/SDL2.spec.in
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/cmake/CheckCPUArchitecture.cmake
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/cmake/macros.cmake
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/cmake/sdlchecks.cmake
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/cmake/sdlfind.cmake
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/cmake/sdlplatform.cmake
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/cmake_uninstall.cmake.in
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_config.h.cmake
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_revision.h.cmake
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/sdl2-config.in
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/sdl2.pc.in
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeDependentOption.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeParseArguments.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakePushCheckState.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCCompilerFlag.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCSourceRuns.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCXXCompilerFlag.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckCXXSourceCompiles.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckIncludeFile.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckIncludeFiles.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckLanguage.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckLibraryExists.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckSourceCompiles.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckStructHasMember.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/CheckSymbolExists.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/FindGit.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/FindPackageMessage.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/FindPkgConfig.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/GNUInstallDirs.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckFlagCommonConfig.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake
+D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/CheckSourceRuns.cmake

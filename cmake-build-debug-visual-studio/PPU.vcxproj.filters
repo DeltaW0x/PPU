@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\lucac\source\repos\Paw\PPU\Source\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lucac\source\repos\Paw\PPU\Source\Graphics\Internal\Renderbuffer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lucac\source\repos\Paw\PPU\Source\Graphics\Internal\Rop.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\lucac\source\repos\Paw\PPU\Source\Graphics\Internal\Renderbuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\lucac\source\repos\Paw\PPU\Source\Graphics\Internal\Rop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\lucac\source\repos\Paw\PPU\Source\Graphics\Internal\Math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lucac\source\repos\Paw\PPU\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9D6D9E82-317F-37B4-BD53-F5D8A9D78DB1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E3221CBB-6A24-3C14-AC56-6B8FE1F3DACD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

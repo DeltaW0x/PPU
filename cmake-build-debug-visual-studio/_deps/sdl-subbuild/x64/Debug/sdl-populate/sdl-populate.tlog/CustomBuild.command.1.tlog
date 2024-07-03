@@ -1,0 +1,150 @@
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\_DEPS\SDL-SUBBUILD\CMAKEFILES\A3C92FE7BC24AA57FEED81310A1CA3A2\SDL-POPULATE-MKDIR.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -Dcfgdir=/Debug -P C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/sdl-populate-prefix/tmp/sdl-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E touch C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/Debug/sdl-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\_DEPS\SDL-SUBBUILD\CMAKEFILES\A3C92FE7BC24AA57FEED81310A1CA3A2\SDL-POPULATE-DOWNLOAD.RULE
+setlocal
+cd C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -P C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/sdl-populate-prefix/tmp/sdl-populate-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E touch C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/Debug/sdl-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\_DEPS\SDL-SUBBUILD\CMAKEFILES\A3C92FE7BC24AA57FEED81310A1CA3A2\SDL-POPULATE-UPDATE.RULE
+setlocal
+cd C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-src
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -Dcan_fetch=YES -P C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/sdl-populate-prefix/tmp/sdl-populate-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\_DEPS\SDL-SUBBUILD\CMAKEFILES\A3C92FE7BC24AA57FEED81310A1CA3A2\SDL-POPULATE-PATCH.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E touch C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/Debug/sdl-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\_DEPS\SDL-SUBBUILD\CMAKEFILES\A3C92FE7BC24AA57FEED81310A1CA3A2\SDL-POPULATE-CONFIGURE.RULE
+setlocal
+cd C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E touch C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/Debug/sdl-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\_DEPS\SDL-SUBBUILD\CMAKEFILES\A3C92FE7BC24AA57FEED81310A1CA3A2\SDL-POPULATE-BUILD.RULE
+setlocal
+cd C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E touch C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/Debug/sdl-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\_DEPS\SDL-SUBBUILD\CMAKEFILES\A3C92FE7BC24AA57FEED81310A1CA3A2\SDL-POPULATE-INSTALL.RULE
+setlocal
+cd C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E touch C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/Debug/sdl-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\_DEPS\SDL-SUBBUILD\CMAKEFILES\A3C92FE7BC24AA57FEED81310A1CA3A2\SDL-POPULATE-TEST.RULE
+setlocal
+cd C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E touch C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/Debug/sdl-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\_DEPS\SDL-SUBBUILD\CMAKEFILES\D06E1F0F221BB49BA9C4BB289B5E329C\SDL-POPULATE-COMPLETE.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E make_directory C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E touch C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/Debug/sdl-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E touch C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/Debug/sdl-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\_DEPS\SDL-SUBBUILD\CMAKEFILES\B0616506AC8CE1391B7EE448AEF9029B\SDL-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\_DEPS\SDL-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -SC:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild -BC:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild --check-stamp-file C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

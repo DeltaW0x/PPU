@@ -1,0 +1,10 @@
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/CMakeFiles/PPU.dir
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/CMakeFiles/ALL_BUILD.dir
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/CMakeFiles/ZERO_CHECK.dir
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/CMakeFiles/sdl_headers_copy.dir
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/CMakeFiles/SDL2main.dir
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/CMakeFiles/SDL2.dir
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/CMakeFiles/SDL2-static.dir
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/CMakeFiles/SDL2_test.dir
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/CMakeFiles/uninstall.dir
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/CMakeFiles/ALL_BUILD.dir

@@ -1,0 +1,648 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						7
+					]
+				},
+				{
+					"build" : "_deps/sdl-build",
+					"jsonFile" : "directory-_deps.sdl-build-Debug-8b95962e76803d6a2fa2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "cmake-build-debug-visual-studio/_deps/sdl-src",
+					"targetIndexes" : 
+					[
+						1,
+						3,
+						4,
+						5,
+						6,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PPU",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "SDL2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						3,
+						4,
+						5,
+						6,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-9a132ee6048ad312fa1f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ALL_BUILD::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-ALL_BUILD-Debug-e7eaa87d3cfde2e4aa3d.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PPU::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PPU-Debug-ff02c8e73e69f1e2d6a1.json",
+					"name" : "PPU",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SDL2::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-SDL2-Debug-d9bbb1aa4d10797ea3d6.json",
+					"name" : "SDL2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SDL2-static::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-SDL2-static-Debug-ba137b52c18d1b79fa99.json",
+					"name" : "SDL2-static",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SDL2_test::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-SDL2_test-Debug-a2455faac2a07d73279c.json",
+					"name" : "SDL2_test",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SDL2main::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-SDL2main-Debug-28727ba1e76903351195.json",
+					"name" : "SDL2main",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-ef1b617e8f6b09ac0f07.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "sdl_headers_copy::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-sdl_headers_copy-Debug-a43d6068c14e90c6188f.json",
+					"name" : "sdl_headers_copy",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "uninstall::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-uninstall-Debug-e946941cfea142aff663.json",
+					"name" : "uninstall",
+					"projectIndex" : 1
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						7
+					]
+				},
+				{
+					"build" : "_deps/sdl-build",
+					"jsonFile" : "directory-_deps.sdl-build-Release-8b95962e76803d6a2fa2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "cmake-build-debug-visual-studio/_deps/sdl-src",
+					"targetIndexes" : 
+					[
+						1,
+						3,
+						4,
+						5,
+						6,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PPU",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "SDL2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						3,
+						4,
+						5,
+						6,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-9a132ee6048ad312fa1f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ALL_BUILD::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-ALL_BUILD-Release-e7eaa87d3cfde2e4aa3d.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PPU::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PPU-Release-fda0d414a8afafa6684d.json",
+					"name" : "PPU",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SDL2::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-SDL2-Release-1e36583de3d560a1f340.json",
+					"name" : "SDL2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SDL2-static::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-SDL2-static-Release-cf7b6ef6c6724c95ca27.json",
+					"name" : "SDL2-static",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SDL2_test::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-SDL2_test-Release-7a2636b78a4771425a0d.json",
+					"name" : "SDL2_test",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SDL2main::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-SDL2main-Release-5a9597fbe4b847f454f5.json",
+					"name" : "SDL2main",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-ef1b617e8f6b09ac0f07.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "sdl_headers_copy::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-sdl_headers_copy-Release-a43d6068c14e90c6188f.json",
+					"name" : "sdl_headers_copy",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "uninstall::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-uninstall-Release-e946941cfea142aff663.json",
+					"name" : "uninstall",
+					"projectIndex" : 1
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-MinSizeRel-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						7
+					]
+				},
+				{
+					"build" : "_deps/sdl-build",
+					"jsonFile" : "directory-_deps.sdl-build-MinSizeRel-8b95962e76803d6a2fa2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "cmake-build-debug-visual-studio/_deps/sdl-src",
+					"targetIndexes" : 
+					[
+						1,
+						3,
+						4,
+						5,
+						6,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PPU",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "SDL2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						3,
+						4,
+						5,
+						6,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-9a132ee6048ad312fa1f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ALL_BUILD::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-e7eaa87d3cfde2e4aa3d.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PPU::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PPU-MinSizeRel-c8fab28515efe5091e43.json",
+					"name" : "PPU",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SDL2::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-SDL2-MinSizeRel-48b9fbb6311780e4140f.json",
+					"name" : "SDL2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SDL2-static::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-SDL2-static-MinSizeRel-e2fbbc71cf7219694eac.json",
+					"name" : "SDL2-static",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SDL2_test::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-SDL2_test-MinSizeRel-25ed53da7f6b9938d8c0.json",
+					"name" : "SDL2_test",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SDL2main::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-SDL2main-MinSizeRel-2714e63cfaa05bebd96b.json",
+					"name" : "SDL2main",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-ef1b617e8f6b09ac0f07.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "sdl_headers_copy::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-sdl_headers_copy-MinSizeRel-a43d6068c14e90c6188f.json",
+					"name" : "sdl_headers_copy",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "uninstall::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-uninstall-MinSizeRel-e946941cfea142aff663.json",
+					"name" : "uninstall",
+					"projectIndex" : 1
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						7
+					]
+				},
+				{
+					"build" : "_deps/sdl-build",
+					"jsonFile" : "directory-_deps.sdl-build-RelWithDebInfo-8b95962e76803d6a2fa2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "cmake-build-debug-visual-studio/_deps/sdl-src",
+					"targetIndexes" : 
+					[
+						1,
+						3,
+						4,
+						5,
+						6,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PPU",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "SDL2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						3,
+						4,
+						5,
+						6,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-9a132ee6048ad312fa1f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ALL_BUILD::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-e7eaa87d3cfde2e4aa3d.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PPU::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PPU-RelWithDebInfo-0d17a95a016637cdc47d.json",
+					"name" : "PPU",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SDL2::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-SDL2-RelWithDebInfo-1cba134c859a89945985.json",
+					"name" : "SDL2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SDL2-static::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-SDL2-static-RelWithDebInfo-ec6c297d6a1bb846e1d6.json",
+					"name" : "SDL2-static",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SDL2_test::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-SDL2_test-RelWithDebInfo-c97e0b54b0fb52d65a58.json",
+					"name" : "SDL2_test",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SDL2main::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-SDL2main-RelWithDebInfo-0948c3a96c2eee83eba5.json",
+					"name" : "SDL2main",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-ef1b617e8f6b09ac0f07.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "sdl_headers_copy::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-sdl_headers_copy-RelWithDebInfo-a43d6068c14e90c6188f.json",
+					"name" : "sdl_headers_copy",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "uninstall::@fc7b397d5a055aba6d5e",
+					"jsonFile" : "target-uninstall-RelWithDebInfo-e946941cfea142aff663.json",
+					"name" : "uninstall",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio",
+		"source" : "C:/Users/lucac/source/repos/Paw/PPU"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

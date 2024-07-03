@@ -1,0 +1,3 @@
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/sdl-populate.dir
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/ZERO_CHECK.dir

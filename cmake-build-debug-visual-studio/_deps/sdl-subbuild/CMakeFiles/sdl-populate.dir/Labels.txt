@@ -1,0 +1,14 @@
+# Target labels
+ sdl-populate
+# Source files and their labels
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/sdl-populate
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/b0616506ac8ce1391b7ee448aef9029b/sdl-populate.rule
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/d06e1f0f221bb49ba9c4bb289b5e329c/sdl-populate-complete.rule
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/a3c92fe7bc24aa57feed81310a1ca3a2/sdl-populate-build.rule
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/a3c92fe7bc24aa57feed81310a1ca3a2/sdl-populate-configure.rule
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/a3c92fe7bc24aa57feed81310a1ca3a2/sdl-populate-download.rule
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/a3c92fe7bc24aa57feed81310a1ca3a2/sdl-populate-install.rule
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/a3c92fe7bc24aa57feed81310a1ca3a2/sdl-populate-mkdir.rule
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/a3c92fe7bc24aa57feed81310a1ca3a2/sdl-populate-patch.rule
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/a3c92fe7bc24aa57feed81310a1ca3a2/sdl-populate-test.rule
+C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/a3c92fe7bc24aa57feed81310a1ca3a2/sdl-populate-update.rule

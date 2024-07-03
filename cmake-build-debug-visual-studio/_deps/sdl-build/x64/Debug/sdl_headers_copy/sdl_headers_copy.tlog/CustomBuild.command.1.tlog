@@ -1,0 +1,788 @@
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_ASSERT.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_assert.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_assert.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_ATOMIC.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_atomic.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_atomic.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_AUDIO.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_audio.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_audio.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_BITS.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_bits.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_bits.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_BLENDMODE.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_blendmode.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_blendmode.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_CLIPBOARD.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_clipboard.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_clipboard.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_COPYING.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_copying.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_copying.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_CPUINFO.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_cpuinfo.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_cpuinfo.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_EGL.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_egl.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_egl.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_ENDIAN.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_endian.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_endian.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_ERROR.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_error.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_error.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_EVENTS.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_events.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_events.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_FILESYSTEM.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_filesystem.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_filesystem.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_GAMECONTROLLER.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_gamecontroller.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_gamecontroller.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_GESTURE.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_gesture.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_gesture.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_GUID.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_guid.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_guid.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_HAPTIC.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_haptic.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_haptic.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_HIDAPI.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_hidapi.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_hidapi.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_HINTS.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_hints.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_hints.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_JOYSTICK.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_joystick.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_joystick.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_KEYBOARD.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_keyboard.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_keyboard.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_KEYCODE.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_keycode.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_keycode.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_LOADSO.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_loadso.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_loadso.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_LOCALE.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_locale.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_locale.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_LOG.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_log.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_log.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_MAIN.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_main.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_main.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_MESSAGEBOX.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_messagebox.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_messagebox.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_METAL.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_metal.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_metal.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_MISC.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_misc.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_misc.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_MOUSE.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_mouse.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_mouse.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_MUTEX.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_mutex.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_mutex.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_NAME.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_name.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_name.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_OPENGL.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_opengl.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_opengl.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_OPENGL_GLEXT.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_opengl_glext.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_opengl_glext.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_OPENGLES.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_opengles.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_opengles.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_OPENGLES2.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_opengles2.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_opengles2.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_OPENGLES2_GL2.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_opengles2_gl2.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_opengles2_gl2.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_OPENGLES2_GL2EXT.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_opengles2_gl2ext.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_opengles2_gl2ext.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_OPENGLES2_GL2PLATFORM.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_opengles2_gl2platform.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_opengles2_gl2platform.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_OPENGLES2_KHRPLATFORM.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_opengles2_khrplatform.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_opengles2_khrplatform.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_PIXELS.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_pixels.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_pixels.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_PLATFORM.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_platform.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_platform.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_POWER.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_power.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_power.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_QUIT.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_quit.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_quit.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_RECT.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_rect.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_rect.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_RENDER.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_render.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_render.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_RWOPS.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_rwops.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_rwops.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_SCANCODE.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_scancode.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_scancode.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_SENSOR.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_sensor.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_sensor.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_SHAPE.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_shape.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_shape.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_STDINC.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_stdinc.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_stdinc.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_SURFACE.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_surface.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_surface.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_SYSTEM.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_system.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_system.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_SYSWM.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_syswm.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_syswm.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_TEST.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_test.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_test.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_TEST_ASSERT.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_test_assert.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_test_assert.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_TEST_COMMON.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_test_common.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_test_common.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_TEST_COMPARE.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_test_compare.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_test_compare.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_TEST_CRC32.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_test_crc32.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_test_crc32.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_TEST_FONT.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_test_font.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_test_font.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_TEST_FUZZER.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_test_fuzzer.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_test_fuzzer.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_TEST_HARNESS.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_test_harness.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_test_harness.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_TEST_IMAGES.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_test_images.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_test_images.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_TEST_LOG.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_test_log.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_test_log.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_TEST_MD5.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_test_md5.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_test_md5.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_TEST_MEMORY.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_test_memory.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_test_memory.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_TEST_RANDOM.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_test_random.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_test_random.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_THREAD.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_thread.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_thread.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_TIMER.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_timer.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_timer.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_TOUCH.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_touch.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_touch.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_TYPES.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_types.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_types.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_VERSION.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_version.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_version.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_VIDEO.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_video.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_video.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\SDL_VULKAN.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/SDL_vulkan.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/SDL_vulkan.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\BEGIN_CODE.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/begin_code.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/begin_code.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\EE673180849F37959A68408A452D381C\CLOSE_CODE.H.RULE
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -E copy_if_different C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-src/include/close_code.h C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/include/SDL2/close_code.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\8BA452DD00372D7115945B1C730176ED\SDL_HEADERS_COPY.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LUCAC\SOURCE\REPOS\PAW\PPU\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\_DEPS\SDL-SRC\CMAKELISTS.TXT
+setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -SC:/Users/lucac/source/repos/Paw/PPU -BC:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio --check-stamp-file C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

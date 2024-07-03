@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ResolveNugetPackages>false</ResolveNugetPackages>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{661943D2-4A04-3EED-BD05-05F0C441895B}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>ALL_BUILD</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lucac\source\repos\Paw\PPU\CMakeLists.txt">
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/lucac/source/repos/Paw/PPU/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -SC:/Users/lucac/source/repos/Paw/PPU -BC:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio --check-stamp-file C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\lucac\source\repos\Paw\PPU\CPM.cmake;C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\CMakeFiles\3.28.1\CMakeCCompiler.cmake;C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\CMakeFiles\3.28.1\CMakeRCCompiler.cmake;C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\CMakeFiles\3.28.1\CMakeSystem.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeCInformation.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeCommonLanguageInclude.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeGenericSystem.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeInitializeConfigs.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeLanguageInformation.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeRCInformation.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeSystemSpecificInformation.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeSystemSpecificInitialize.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Compiler\CMakeCommonCompilerMacros.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Compiler\MSVC-C.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Compiler\MSVC.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\ExternalProject\shared_internal_commands.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FetchContent.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FetchContent\CMakeLists.cmake.in;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FindGit.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FindPackageHandleStandardArgs.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FindPackageMessage.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\Windows-Initialize.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\Windows-MSVC-C.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\Windows-MSVC.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\Windows.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\WindowsPaths.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/lucac/source/repos/Paw/PPU/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -SC:/Users/lucac/source/repos/Paw/PPU -BC:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio --check-stamp-file C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\lucac\source\repos\Paw\PPU\CPM.cmake;C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\CMakeFiles\3.28.1\CMakeCCompiler.cmake;C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\CMakeFiles\3.28.1\CMakeRCCompiler.cmake;C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\CMakeFiles\3.28.1\CMakeSystem.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeCInformation.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeCommonLanguageInclude.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeGenericSystem.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeInitializeConfigs.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeLanguageInformation.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeRCInformation.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeSystemSpecificInformation.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeSystemSpecificInitialize.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Compiler\CMakeCommonCompilerMacros.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Compiler\MSVC-C.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Compiler\MSVC.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\ExternalProject\shared_internal_commands.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FetchContent.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FetchContent\CMakeLists.cmake.in;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FindGit.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FindPackageHandleStandardArgs.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FindPackageMessage.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\Windows-Initialize.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\Windows-MSVC-C.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\Windows-MSVC.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\Windows.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\WindowsPaths.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/lucac/source/repos/Paw/PPU/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -SC:/Users/lucac/source/repos/Paw/PPU -BC:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio --check-stamp-file C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\lucac\source\repos\Paw\PPU\CPM.cmake;C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\CMakeFiles\3.28.1\CMakeCCompiler.cmake;C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\CMakeFiles\3.28.1\CMakeRCCompiler.cmake;C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\CMakeFiles\3.28.1\CMakeSystem.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeCInformation.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeCommonLanguageInclude.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeGenericSystem.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeInitializeConfigs.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeLanguageInformation.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeRCInformation.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeSystemSpecificInformation.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeSystemSpecificInitialize.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Compiler\CMakeCommonCompilerMacros.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Compiler\MSVC-C.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Compiler\MSVC.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\ExternalProject\shared_internal_commands.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FetchContent.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FetchContent\CMakeLists.cmake.in;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FindGit.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FindPackageHandleStandardArgs.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FindPackageMessage.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\Windows-Initialize.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\Windows-MSVC-C.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\Windows-MSVC.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\Windows.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\WindowsPaths.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/lucac/source/repos/Paw/PPU/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+"D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -SC:/Users/lucac/source/repos/Paw/PPU -BC:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio --check-stamp-file C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\lucac\source\repos\Paw\PPU\CPM.cmake;C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\CMakeFiles\3.28.1\CMakeCCompiler.cmake;C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\CMakeFiles\3.28.1\CMakeRCCompiler.cmake;C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\CMakeFiles\3.28.1\CMakeSystem.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeCInformation.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeCommonLanguageInclude.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeGenericSystem.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeInitializeConfigs.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeLanguageInformation.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeRCInformation.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeSystemSpecificInformation.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\CMakeSystemSpecificInitialize.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Compiler\CMakeCommonCompilerMacros.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Compiler\MSVC-C.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Compiler\MSVC.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\ExternalProject\shared_internal_commands.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FetchContent.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FetchContent\CMakeLists.cmake.in;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FindGit.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FindPackageHandleStandardArgs.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\FindPackageMessage.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\Windows-Initialize.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\Windows-MSVC-C.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\Windows-MSVC.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\Windows.cmake;D:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\share\cmake-3.28\Modules\Platform\WindowsPaths.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\ZERO_CHECK.vcxproj">
+      <Project>{2938FE17-6195-3C26-AB12-5D8AE9B46864}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\PPU.vcxproj">
+      <Project>{6BAEA216-C2D8-355C-99E6-FC8AF9325D0A}</Project>
+      <Name>PPU</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-build\SDL2.vcxproj">
+      <Project>{FD70840C-2A50-31FB-B669-236412C07299}</Project>
+      <Name>SDL2</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-build\SDL2-static.vcxproj">
+      <Project>{CFC3E507-025A-3151-8374-A556BCA53A40}</Project>
+      <Name>SDL2-static</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-build\SDL2_test.vcxproj">
+      <Project>{26AD3FB0-BB73-3AD2-83D3-EF40DE7D5B8C}</Project>
+      <Name>SDL2_test</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\lucac\source\repos\Paw\PPU\cmake-build-debug-visual-studio\_deps\sdl-build\SDL2main.vcxproj">
+      <Project>{D4799A54-0614-3CEC-9AA1-70F04F93AA7E}</Project>
+      <Name>SDL2main</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

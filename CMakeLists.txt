@@ -14,12 +14,11 @@ CPMAddPackage(
 
 add_executable(PPU
             Source/main.c
-
-
-        Source/Graphics/Framebuffer.c
-        Source/Graphics/Framebuffer.h
-        Source/Graphics/ROP/ROP.c
-        Source/Graphics/ROP/ROP.h
+        Source/Graphics/Internal/Renderbuffer.c
+        Source/Graphics/Internal/Renderbuffer.h
+        Source/Graphics/Internal/Rop.c
+        Source/Graphics/Internal/Rop.h
+        Source/Graphics/Internal/Math.h
 )
 
 target_link_libraries(${PROJECT_NAME} SDL2::SDL2-static)

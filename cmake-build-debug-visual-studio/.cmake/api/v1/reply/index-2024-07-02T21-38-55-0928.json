@@ -1,0 +1,109 @@
+{
+	"cmake" : 
+	{
+		"generator" : 
+		{
+			"multiConfig" : true,
+			"name" : "Visual Studio 17 2022",
+			"platform" : "x64"
+		},
+		"paths" : 
+		{
+			"cmake" : "D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/bin/cmake.exe",
+			"cpack" : "D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/bin/cpack.exe",
+			"ctest" : "D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/bin/ctest.exe",
+			"root" : "D:/Program Files/JetBrains/CLion 2024.1.1/bin/cmake/win/x64/share/cmake-3.28"
+		},
+		"version" : 
+		{
+			"isDirty" : false,
+			"major" : 3,
+			"minor" : 28,
+			"patch" : 1,
+			"string" : "3.28.1",
+			"suffix" : ""
+		}
+	},
+	"objects" : 
+	[
+		{
+			"jsonFile" : "codemodel-v2-9a59006375db4a1814a6.json",
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 6
+			}
+		},
+		{
+			"jsonFile" : "cache-v2-006175c15777ef1b8ea0.json",
+			"kind" : "cache",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		},
+		{
+			"jsonFile" : "cmakeFiles-v1-4c6242e8ceda14271593.json",
+			"kind" : "cmakeFiles",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 0
+			}
+		},
+		{
+			"jsonFile" : "toolchains-v1-5617e84194d2e6c7a6d7.json",
+			"kind" : "toolchains",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 0
+			}
+		}
+	],
+	"reply" : 
+	{
+		"cache-v2" : 
+		{
+			"jsonFile" : "cache-v2-006175c15777ef1b8ea0.json",
+			"kind" : "cache",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		},
+		"cmakeFiles-v1" : 
+		{
+			"jsonFile" : "cmakeFiles-v1-4c6242e8ceda14271593.json",
+			"kind" : "cmakeFiles",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 0
+			}
+		},
+		"codemodel-v2" : 
+		{
+			"jsonFile" : "codemodel-v2-9a59006375db4a1814a6.json",
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 6
+			}
+		},
+		"toolchains-v1" : 
+		{
+			"jsonFile" : "toolchains-v1-5617e84194d2e6c7a6d7.json",
+			"kind" : "toolchains",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 0
+			}
+		}
+	}
+}

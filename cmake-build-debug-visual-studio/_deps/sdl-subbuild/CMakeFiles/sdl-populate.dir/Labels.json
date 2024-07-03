@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/sdl-populate"
+		},
+		{
+			"file" : "C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/b0616506ac8ce1391b7ee448aef9029b/sdl-populate.rule"
+		},
+		{
+			"file" : "C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/d06e1f0f221bb49ba9c4bb289b5e329c/sdl-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/a3c92fe7bc24aa57feed81310a1ca3a2/sdl-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/a3c92fe7bc24aa57feed81310a1ca3a2/sdl-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/a3c92fe7bc24aa57feed81310a1ca3a2/sdl-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/a3c92fe7bc24aa57feed81310a1ca3a2/sdl-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/a3c92fe7bc24aa57feed81310a1ca3a2/sdl-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/a3c92fe7bc24aa57feed81310a1ca3a2/sdl-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/a3c92fe7bc24aa57feed81310a1ca3a2/sdl-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/lucac/source/repos/Paw/PPU/cmake-build-debug-visual-studio/_deps/sdl-subbuild/CMakeFiles/a3c92fe7bc24aa57feed81310a1ca3a2/sdl-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sdl-populate"
+		],
+		"name" : "sdl-populate"
+	}
+}

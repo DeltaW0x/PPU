@@ -1,0 +1,52 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "PPU::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "SDL2::@fc7b397d5a055aba6d5e"
+		},
+		{
+			"id" : "SDL2-static::@fc7b397d5a055aba6d5e"
+		},
+		{
+			"id" : "SDL2main::@fc7b397d5a055aba6d5e"
+		},
+		{
+			"id" : "SDL2_test::@fc7b397d5a055aba6d5e"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "CMakePredefinedTargets"
+	},
+	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
